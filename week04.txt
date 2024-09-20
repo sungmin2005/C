@@ -7,3 +7,4 @@ clone
 git config --list
 
 pwd
+교수님 교안 좀 같이 주시면 안될까요
