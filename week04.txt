@@ -5,3 +5,5 @@ cd..
 clone
 빨리끝내고싶다
 git config --list
+
+pwd
